@@ -1,41 +1,47 @@
-# Nombre del laboratorio 
+# Lab 2. 
 
-## Objetivo de la práctica:
-Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+## Objective:
+By the end of the session, you will be able to:
+- Objetive 1
+- Objetive 2
+- Objetive 3
 
-## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+## Visual objective: 
+Create a diagram or image that summarizes the activities to be carried out; an example is the following image.
 
 ![diagrama1](../images/img1.png)
 
-## Duración aproximada:
-- xx minutos.
+## Time for this activity:
+- xx minutes.
 
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
+## Help Table:
+Add a table with the information that participants may need during the lab, such as software version, server IPs, usernames, and access credentials.
+| Password | Email | Code |
 | --- | --- | ---|
 | Netec2024 | edgardo@netec.com | 123abc |
 
-## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+## Instructions: 
+<!-- Provide detailed steps on how to configure and manage systems, implement software solutions, perform security testing, or any other practical scenario relevant to the field of Information Technology -->
 
-Paso 2. <!-- Añadir instrucción -->
+### Task 1. Description of the task to be performed.
 
-Paso 3. <!-- Añadir instrucción -->
+**Step 1.** The instructor must describe each activity using the infinitive form of the verb, clearly and concisely, in order to build the task objective step by step.
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+**Step 2.** <!-- Add instruction, e.g., "To configure the network interface with the assigned IP address." -->
 
-Paso 2. <!-- Añadir instrucción -->
+**Step 3.** <!-- Add instruction, e.g., "To verify connectivity by executing ping commands to the server." -->
 
-Paso 3. <!-- Añadir instrucción -->
 
-### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
+### Task 2. Description of the task to be performed.
+
+**Step 1.** The instructor must describe each activity using the infinitive form of the verb, clearly and concisely, in order to build the task objective step by step.
+
+**Step 2.** <!-- Add instruction, e.g., "To configure the network interface with the assigned IP address." -->
+
+**Step 3.** <!-- Add instruction, e.g., "To verify connectivity by executing ping commands to the server." -->
+
+## Expected result:
+
+This section should show the expected outcome of our lab activity.
+
 ![imagen resultado](../images/img3.png)
