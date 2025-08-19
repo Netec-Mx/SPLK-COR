@@ -1,4 +1,4 @@
-# Lab 1. 
+# Lab 1 - Lab typographical conventions
 
 ## Objective:
 By the end of the session, you will be able to:
