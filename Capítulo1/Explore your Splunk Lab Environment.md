@@ -25,12 +25,6 @@ To access the Windows operating system, you will use a Remote Desktop client (RD
 Windows host IP address name: {DS-ip}
 RDC Username: student# Password: 
 
-
-
-
-## Visual objective: 
-Create a diagram or image that summarizes the activities to be carried out; an example is the following image.
-
 ## Time for this activity:
 - 30 minutes.
 
