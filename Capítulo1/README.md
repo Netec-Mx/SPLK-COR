@@ -54,8 +54,29 @@ You will access the shared search head and your personal deployment/test server 
 
 **Step 3.** From the Splunk bar, to identify the Splunk version that the search head is running, click Help > About.
 
+**Step 4.** From the Splunk bar, click your {SH_user-ID} name.
 
-### Task 2. Description of the task to be performed.
+**Step 5.** Click Account Settings.
+
+**Step 6.** In the Full name field, notice your name preceded by SH_. (This identified your login session and the search head.) Do not change.
+
+**Step 7.** The Email address field contains a two-digit number. This is your {student-ID} (leading zero required for student IDs 01-09). Do not change.
+NOTE:	Do not change your assigned password.
+
+**Step 8.** From the Splunk bar, click your {SH_user-ID} name and click Preferences.
+
+**Step 9.** In the Default application field, select Search & Reporting.
+
+**Step 10.** Click Apply.
+
+**Step 11.** In the app navigation bar, click Apps > Search & Reporting.
+
+**Step 12.** Click Skip to dismiss the tour message.
+
+**Step 13.** Click Settings. The options shown are the defaults available to the Splunk power role.
+
+
+### Task 2. Run a search on the Search Head.
 
 **Step 1.** The instructor must describe each activity using the infinitive form of the verb, clearly and concisely, in order to build the task objective step by step.
 
