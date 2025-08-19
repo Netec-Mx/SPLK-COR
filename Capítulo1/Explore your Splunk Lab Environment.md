@@ -181,8 +181,14 @@ Splunk Web port:	./splunk show web-port returns 8000
 Splunk management (splunkd) port:	./splunk show splunkd-port returns 8089 Splunk App Server ports:	./splunk show appserver-ports returns 8065 Splunk KV store port:	./splunk show kvstore-port returns 8191 Splunk server name:	./splunk show servername returns splunkXX
 Default host name:	./splunk show default-hostname returns splunkXX
 
-## Expected result:
+**Step 5.** Troubleshooting Suggestions
+1.	If you can't access Splunk Web, make sure the Splunk service is running. In the terminal, run:
 
-This section should show the expected outcome of our lab activity.
+![diagrama1](../images/img08.png)
 
-![imagen resultado](../images/img3.png)
+2.	If splunkd is not already running, start the splunkd service.
+
+![diagrama1](../images/img09.png)
+
+
+
