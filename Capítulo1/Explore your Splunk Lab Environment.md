@@ -31,8 +31,6 @@ RDC Username: student# Password:
 ## Visual objective: 
 Create a diagram or image that summarizes the activities to be carried out; an example is the following image.
 
-![diagrama1](../images/img.png)
-
 ## Time for this activity:
 - 30 minutes.
 
