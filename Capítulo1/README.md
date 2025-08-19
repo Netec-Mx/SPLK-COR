@@ -34,7 +34,7 @@ Create a diagram or image that summarizes the activities to be carried out; an e
 ![diagrama1](../images/img01.png)
 
 ## Time for this activity:
-- xx minutes.
+- 30 minutes.
 
 ## Help Table:
 Add a table with the information that participants may need during the lab, such as software version, server IPs, usernames, and access credentials.
@@ -45,13 +45,14 @@ Add a table with the information that participants may need during the lab, such
 ## Instructions: 
 <!-- Provide detailed steps on how to configure and manage systems, implement software solutions, perform security testing, or any other practical scenario relevant to the field of Information Technology -->
 
-### Task 1. Description of the task to be performed.
+### Task 1. Access Splunk Web on the Search Head.
+You will access the shared search head and your personal deployment/test server instances frequently with Splunk Web throughout the lab exercises. It is strongly recommended that you keep a separate tab or window open to each machine so you can context-switch easily between them when necessary. If you’re not sure which instance you are currently accessing, click the Settings menu. If you see an abridged list of options, you’re on the search head. If you see a full list of options, you’re on your deployment/test server. Another option is to use two different web browsers. For example, use Chrome to access your search head and Firefox to access the deployment test server. A third option is to change the color of the search app navigation bar. Your instructor may have already done this for the shared search head.
 
-**Step 1.** The instructor must describe each activity using the infinitive form of the verb, clearly and concisely, in order to build the task objective step by step.
+**Step 1.** Navigate to the search head (using your browser of choice)..
 
-**Step 2.** <!-- Add instruction, e.g., "To configure the network interface with the assigned IP address." -->
+**Step 2.** Log in with your assigned {user-ID} and password {password}
 
-**Step 3.** <!-- Add instruction, e.g., "To verify connectivity by executing ping commands to the server." -->
+**Step 3.** From the Splunk bar, to identify the Splunk version that the search head is running, click Help > About.
 
 
 ### Task 2. Description of the task to be performed.
