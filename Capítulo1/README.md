@@ -12,7 +12,21 @@ This lab environment uses a shared search head. Log into the search head using y
 Search Head Splunk Web URL: http://	  {SH-ip}   :8000                            
 Splunk username: {user-ID}	Password: {password}
 
-- Objetive 3
+- Objetive 3 - Deployment Server/Test Server Credentials
+You have been assigned your own deployment server/test server Splunk instance. The command line access procedure depends upon the underlying operating system (Linux or Windows). Splunk Web (browser) access procedures are the same regardless of the underlying operating system.
+Deployment Server/Test Server Splunk Web URL: http://	:8000 {DS-ip}
+Splunk username: admin	Password:	{password}
+Linux OS
+To access the Linux operating system, you will use an SSH client such as Mac Terminal or PuTTY (Windows).
+Linux host IP address name: {DS-ip}
+Linux Username: {os-user}	Password: {password}
+Windows OS
+To access the Windows operating system, you will use a Remote Desktop client (RDC), such as Microsoft Remote Desktop.
+Windows host IP address name: {DS-ip}
+RDC Username: student# Password: 
+
+
+
 
 ## Visual objective: 
 Create a diagram or image that summarizes the activities to be carried out; an example is the following image.
