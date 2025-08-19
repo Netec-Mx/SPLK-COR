@@ -9,10 +9,9 @@ Student ID: {student-ID}
 
 - Objetive 2 - Search Head Credentials
 This lab environment uses a shared search head. Log into the search head using your unique assigned Splunk username. The Splunk power role has been assigned to your account. You will never log into the search head as admin.
-Search Head Splunk Web URL: http://	    :8000
-                                 {SH-ip}
-Splunk username: 	                       Password: 	
-                   {user-ID}	                       {password}
+Search Head Splunk Web URL: http://	  {SH-ip}   :8000
+                                
+Splunk username: {user-ID}	Password: {password}
 
 - Objetive 3
 
