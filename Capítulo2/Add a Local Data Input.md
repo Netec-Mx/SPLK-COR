@@ -7,12 +7,6 @@ By the end of the session, you will be able to:
 ## Time for this activity:
 - 30 minutes.
 
-## Help Table:
-Add a table with the information that participants may need during the lab, such as software version, server IPs, usernames, and access credentials.
-| Password | Email | Code |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
-
 ## Instructions: 
 <!-- Provide detailed steps on how to configure and manage systems, implement software solutions, perform security testing, or any other practical scenario relevant to the field of Information Technology -->
 
