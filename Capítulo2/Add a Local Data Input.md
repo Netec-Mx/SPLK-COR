@@ -1,18 +1,11 @@
-# Lab 2. 
+# Module 2 Lab Exercise – Add a Local Data Input 
 
 ## Objective:
 By the end of the session, you will be able to:
-- Objetive 1
-- Objetive 2
-- Objetive 3
-
-## Visual objective: 
-Create a diagram or image that summarizes the activities to be carried out; an example is the following image.
-
-![diagrama1](../images/img1.png)
+- Objetive 1 - In this lab exercise, you will create all the local indexes on the deployment/test server required for the subsequent lab exercises. In later lab exercises, you will forward data inputs to remote indexers. This requires that your deployment/test server have the same local indexes as the remote indexers. Finally, you will create a local file input (monitor) to be indexed on your deployment/test server.
 
 ## Time for this activity:
-- xx minutes.
+- 30 minutes.
 
 ## Help Table:
 Add a table with the information that participants may need during the lab, such as software version, server IPs, usernames, and access credentials.
@@ -39,6 +32,8 @@ Add a table with the information that participants may need during the lab, such
 **Step 2.** <!-- Add instruction, e.g., "To configure the network interface with the assigned IP address." -->
 
 **Step 3.** <!-- Add instruction, e.g., "To verify connectivity by executing ping commands to the server." -->
+
+![diagrama1](../images/img1.png)
 
 ## Expected result:
 
