@@ -41,13 +41,41 @@ c.	Click Open to start the session.
 
 ![diagrama1](../images/img21.png)
 
-### Task 2. Description of the task to be performed.
+### Task 2. Start and configure your forwarder instance.
 
 **Step 1.** The instructor must describe each activity using the infinitive form of the verb, clearly and concisely, in order to build the task objective step by step.
 
-**Step 2.** <!-- Add instruction, e.g., "To configure the network interface with the assigned IP address." -->
+**Step 2.** To initialize the UF1, run the following commands:
 
-**Step 3.** <!-- Add instruction, e.g., "To verify connectivity by executing ping commands to the server." -->
+![diagrama1](../images/img22.png)
+
+NOTE:	This option automatically accepts the Splunk EULA. The admin password and the splunkd-port have already been configured for you. If you want to change your splunkd-port, you may need to check with your Splunk System Administrator and use ./splunk set splunkd-port <port_number>.
+
+**Step 3.** Using the show command, view the splunkd-port number (Splunk will prompt you for the admin
+username and password which is admin and your assigned password.)
+
+![diagrama1](../images/img23.png)
+
+**Step 4.** Using the set command, change your forwarder's servername and the default-hostname to
+engdev1{student-ID}.
+This step uniquely identifies the data originating from your forwarder instance in this lab environment.
+NOTE:	Defer the restart until you have made all your changes.
+
+![diagrama1](../images/img24.png)
+
+**Step 5.** Restart UF1 to apply your changes.
+
+![diagrama1](../images/img25.png)
+
+### Task 3. Configure your forwarder to send data directly to the indexers.
+
+In this task, you configure UF1 to send its internal Splunk logs, and any data it gathers in later lab exercises, directly to the pre-configured Splunk indexers.
+
+**Step 1.** Configure the forwarder to send data to port 9997 on your Splunk indexers, 10.7.3X.13 and
+10.7.3X.14.
+NOTE:	The remote indexer ports have been preconfigured to receive data.
+
+![diagrama1](../images/img26.png)
 
 ## Expected result:
 
