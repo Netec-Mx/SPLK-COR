@@ -77,8 +77,28 @@ NOTE:	The remote indexer ports have been preconfigured to receive data.
 
 ![diagrama1](../images/img26.png)
 
-## Expected result:
+**Step 2.** Verify your forwarder is properly configured.
+NOTE:	The indexers will alternate between Active and Configured but inactive forwards due to load balancing. You may need to run the command multiple times to view these states.
 
-This section should show the expected outcome of our lab activity.
+![diagrama1](../images/img27.png)
 
-![imagen resultado](../images/img3.png)
+**Step 3.** Use the btool command with the --debug flag to show all of the Splunk settings associated with the creation of the outputs.conf file.
+
+![diagrama1](../images/img28.png)
+
+**Step 4.** Restart UF1 to apply your new changes.
+
+![diagrama1](../images/img29.png)
+
+**Step 5.** Exit UF1’s SSH session.
+
+![diagrama1](../images/img30.png)
+
+### Task 4. Validate the receipt of forwarded data.
+
+**Step 1.** Using the search head, enter the search below. Replace the #’s with your student ID and execute the following search over the Last 15 minutes:
+index=_internal sourcetype=splunkd host=engdev#
+
+![diagrama1](../images/img31.png)
+
+**Step 2.** You should see events related to the splunkd process coming from your UF1.
