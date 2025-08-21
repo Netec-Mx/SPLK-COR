@@ -222,20 +222,20 @@ NOTE:	It can take several minutes before your clients appear in the user interfa
 
 ### Task 8. Confirm the deployment of the uf_base app.
 
-**Step 1.** 53.	From your UF#2 (10.7.3X.12) terminal window, confirm that the directory uf_base exists in the
+**Step 1.** From your UF#2 (10.7.3X.12) terminal window, confirm that the directory uf_base exists in the
 ~/splunkforwarder/etc/apps directory.
 
 ![imagen resultado](../images/img57.png)
 
-**Step 2.** 54.	Verify that the outputs.conf file matches the following, then exit the SSH session.
+**Step 2.** Verify that the outputs.conf file matches the following, then exit the SSH session.
 
 ![imagen resultado](../images/img58.png)
 
-**Step 3.** 55.	From the search head, replace the #with your student ID and execute the following search over the
+**Step 3.** From the search head, replace the #with your student ID and execute the following search over the
 Last 24 hours
 index=_internal sourcetype=splunkd tcpoutputproc host=*#| stats count by host
 
-**Step 4.** 56.	You should now see following hosts:
+**Step 4.** You should now see following hosts:
 •	engdev1#	(UF1, #= student id)
 •	engdev2#	(UF2, #= student id)
 •	splunkHF#	(Heavy Forwarder, #= student id)
