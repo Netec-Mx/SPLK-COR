@@ -2,8 +2,7 @@
 
 ## Objective:
 By the end of the session, you will be able to:
-- Objetive 1
-Description
+- Objetive - Description
 In this exercise, you will use the Forwarder Management interface in Splunk Web to configure a remote universal forwarder and a heavy forwarder. The advantage of this option is that it allows you to manage multiple groups of forwarders from a central location.
 
 First, you will enable the deployment server feature on your deployment server instance and stage two deployable apps for your forwarders that have already been created for you. You will use these apps to configure the outputs.conf file which is needed to tell the fowarder where to send its data. The apps, uf_base for universal forwarder #2 (UF2) and hf_base for the heavy forwarder, are staged in SPLUNK_HOME/etc/deployment-apps.
