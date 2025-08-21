@@ -2,7 +2,7 @@
 
 ## Objective:
 By the end of the session, you will be able to:
-- Objetive 1 - In this lab exercise, you will create all the local indexes on the deployment/test server required for the subsequent lab exercises. In later lab exercises, you will forward data inputs to remote indexers. This requires that your deployment/test server have the same local indexes as the remote indexers. Finally, you will create a local file input (monitor) to be indexed on your deployment/test server.
+- Objetive - In this lab exercise, you will create all the local indexes on the deployment/test server required for the subsequent lab exercises. In later lab exercises, you will forward data inputs to remote indexers. This requires that your deployment/test server have the same local indexes as the remote indexers. Finally, you will create a local file input (monitor) to be indexed on your deployment/test server.
 
 ## Time for this activity:
 - 30 minutes.
