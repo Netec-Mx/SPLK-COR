@@ -1,4 +1,4 @@
-# Lab 5. 
+# Module 5 Lab Exercise – File Monitor Input 
 
 ## Objective:
 By the end of the session, you will be able to:
