@@ -2,7 +2,7 @@
 
 ## Objective:
 By the end of the session, you will be able to:
-- In this exercise, you configure universal forwarder #1 (UF1) to send data to the remote indexers (IND1 and IND2) and validate the receipt of internal splunkd data on the shared search head.
+- Objetive - In this exercise, you configure universal forwarder #1 (UF1) to send data to the remote indexers (IND1 and IND2) and validate the receipt of internal splunkd data on the shared search head.
 
 ## Time for this activity:
 - 30 minutes.
