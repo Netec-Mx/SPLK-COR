@@ -1,10 +1,9 @@
-# Lab 6. 
+# Module 6 Lab Exercise – Remote Scripted Input 
 
 ## Objective:
 By the end of the session, you will be able to:
 - Objetive 1
-- Objetive 2
-- Objetive 3
+
 
 ## Visual objective: 
 Create a diagram or image that summarizes the activities to be carried out; an example is the following image.
