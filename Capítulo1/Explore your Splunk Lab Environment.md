@@ -32,7 +32,12 @@ RDC Username: student# Password:
 Add a table with the information that participants may need during the lab, such as software version, server IPs, usernames, and access credentials.
 | Password | Email | Code |
 | --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+| sp123 | ccabrerau@bancochile.cl | Splunk1 |
+| sp124 | ecastillou@bancochile.cl | Splunk2 |
+| sp125 | facabrera@bancochile.cl | Splunk3 |
+| sp126 | jleonse@bancochile.cl | Splunk4 |
+| sp127 | jnorambuen@bancochile.cl | Splunk5 |
+| sp128 | jaguiar@bancochile.cl | Splunk6 |
 
 ## Instructions: 
 <!-- Provide detailed steps on how to configure and manage systems, implement software solutions, perform security testing, or any other practical scenario relevant to the field of Information Technology -->
