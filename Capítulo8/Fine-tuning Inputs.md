@@ -4,8 +4,6 @@
 By the end of the session, you will be able to:
 - Objetive - In this lab exercise, you add a remote directory monitor input to index several sources on UF2 using the automatic source typing feature. While this is a convenient feature, Splunk does not always assign the correct sourcetype for every file in a directory. When this happens, you must intervene to override the sourcetype.
 
-![diagrama1](../images/img1.png)
-
 ## Time for this activity:
 - 30 minutes.
 
