@@ -139,3 +139,7 @@ You should see events from UF2 with the last four digits of the AcctCode field m
 **Step 4.** Troubleshooting Suggestions
 If your searches are not producing the expected results, check your configurations.
 1.	Verify the syntax and spelling in all configurations and searches.
+
+## General objective
+
+![diagrama1](../images/img01.png)
